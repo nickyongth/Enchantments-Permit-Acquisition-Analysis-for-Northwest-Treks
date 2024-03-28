@@ -1,5 +1,7 @@
 # Enchantments Permit Acquisition Analysis for Northwest Treks
 
+[The Enchantments](https://github.com/nickyongth/images-/blob/main/The%20Enchantments.jpeg)
+
 ## Project Overview
 
 Northwest Treks, an adventure outfitting company in Seattle, sought to enhance their chances of obtaining a four-day backpacking permit for The Enchantments in 2024. They seek to secure a 4 day backpacking permit into the Enchantments in 2024 so that they can create a promotional video with their team in this pristine and highly coveted alpine lakes region. The primary objective was to leverage data analytics, specifically through Tableau, to guide their application strategy for the competitive permit lottery.

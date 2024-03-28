@@ -62,3 +62,7 @@ Diving deeper into the success rates for the Eightmile/Caroline Zone, this visua
 
 This dashboard synthesizes historical weather patterns and permit lottery success rates to recommend the most favorable dates for filming in the Core Enchantment Zone. It points to early July as the prime window for permit applications, where historically, the average temperatures exceed 52°F and precipitation is less than 0.03 inches, aligning with the best chance of securing a permit.
 
+## Tableau Dashboard
+
+[View my Tableau Dashboard here](https://public.tableau.com/app/profile/nicky.ong5310/viz/TheEnchantmentsProjectNickyOng/Dashboard1)
+

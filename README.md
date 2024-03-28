@@ -1,6 +1,6 @@
 # Enchantments Permit Acquisition Analysis for Northwest Treks
 
-[The Enchantments](https://github.com/nickyongth/images-/blob/main/The%20Enchantments.jpeg)
+![The Enchantments](https://github.com/nickyongth/images-/blob/main/The%20Enchantments.jpeg)
 
 ## Project Overview
 

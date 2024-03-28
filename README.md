@@ -26,9 +26,37 @@ The project aimed to address the following key questions:
 - How can the application strategy be optimized to improve the chances of permit approval?
 - Given the desire to be in the Core Zone of The Enchantments with average temperatures above 52°F and average precipitation below 0.03", what specific dates should be targeted to maximize the probability of permit acceptance?
 
-## Analysis Highlights
+## Analysis Visualizations
 
-- **Lottery Success Rate Analysis**: Utilized Tableau to dissect lottery data, identifying key trends and determining the most advantageous application strategies.
-- **Weather Data Correlation**: Analyzed weather data in Tableau to identify the best period for trekking, focusing on desired temperature and precipitation levels.
-- **Strategic Application Recommendations**: Developed targeted recommendations for permit application, maximizing the probability of success.
+This section contains visualizations created in Tableau to answer key business questions and inform the permit application strategy for Northwest Treks.
+
+### Success Rate by Preferred Zone
+
+![Success Rate by Preferred Zone](https://github.com/nickyongth/images-/blob/main/%25%20Awarded%20by%20Preferred%20Zone.png)
+
+*Description*: This visualization compares the success rates for permit applications across different zones within The Enchantments for 2021 and 2022. The analysis underscores the Eightmile/Caroline Zone as having notably higher success rates, especially for group sizes of less than 6.
+
+### Success Rate by Month
+
+![Success Rate by Month](https://github.com/nickyongth/images-/blob/main/%25%20Awarded%20by%20Preferred%20Entry%20Month.png)
+
+*Description*: Highlighting the variability of success rates by month, this chart informs the strategic timing of permit applications. It reveals that May and October are the most favorable months to apply for permits, based on historical data.
+
+### Impact of Maximum Requested Group Size on Success Rate
+
+![Impact of Maximum Requested Group Size on Success Rate](https://github.com/nickyongth/images-/blob/main/%25%20Awarded%20by%20Maximum%20Requested%20Group%20Size.png)
+
+*Description*: This graph illustrates the influence of group size on the chances of permit awarding. Smaller group sizes show a higher probability of success, informing recommendations on the optimal group size to apply with.
+
+### Success Rate for Maximum Requested Group Size in the Eightmile/Caroline Zone in October
+
+![Success Rate for Maximum Requested Group Size in the Eightmile/Caroline Zone in October](https://github.com/nickyongth/images-/blob/main/%25%20Awarded%20by%20Maximum%20Requested%20Group%20Size%20in%20EightmileCaroline%20Zone%20in%20October.png)
+
+*Description*: Diving deeper into the success rates for the Eightmile/Caroline Zone, this visualization pinpoints October as an exceptionally successful month, especially for smaller groups, aligning with the recommendations for optimal application strategy.
+
+### Average Precipitation & Temperature Analysis with Historical Success Rates
+
+![Average Precipitation & Temperature Analysis with Historical Success Rates](https://github.com/nickyongth/images-/blob/main/Presentation%20Dashboard.png)
+
+*Description*: This comprehensive dashboard correlates historical weather data with permit success rates to identify the best period for entering the Core Enchantment Zone. It suggests early July as an ideal time, considering both the success rates and the historically favorable weather conditions.
 
